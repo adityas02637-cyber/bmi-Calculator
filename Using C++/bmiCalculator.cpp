@@ -8,7 +8,7 @@ int main()
     float height, weight, BMI;
 
     //Scanning the height from the user
-    cout << "Enter your height in metre: ";
+    
     cin >> height;
 
     // Scanning the weight from the user
